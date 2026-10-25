@@ -20,13 +20,9 @@ ScopePilot AI is a Streamlit web app that converts messy, unstructured client re
 ![Screenshot 1](De-construct%20image/WhatsApp%20Image%202026-09-30%20at%203.50.16%20PM.jpeg)
 
 
+!]
+
+![Screenshot 2](De-construct%20image/WhatsApp%20Image%202026-09-30%20at%203.50.16%20PM%20(2).jpeg)
 
 
-![Screenshot 2](De-construct%20image/WhatsApp%20Image%202026-09-30%20at%203.50.16%20PM%20(2)
-
-.jpeg)
-
-
-![Screenshot 3](De-construct%20image/WhatsApp%20Image%202026-09-30%20at%203.50.16%20PM%20(3)
-
-.jpeg)
+![Screenshot 3](De-construct%20image/WhatsApp%20Image%202026-09-30%20at%203.50.16%20PM%20(3).jpeg)
