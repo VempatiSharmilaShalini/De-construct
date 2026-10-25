@@ -1,7 +1,6 @@
 
 # De-construct
-
-A Business and Customer Query application built with Python, Streamlit and OpenAI.
+ScopePilot AI is a Streamlit web app that converts messy, unstructured client requirements into development-ready specifications. It also generates competitor intelligence and cost forecasts using the OpenAI API.
 
 ## Tech Used
 - Python
